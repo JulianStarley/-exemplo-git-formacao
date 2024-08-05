@@ -1,4 +1,5 @@
 <?php
-phpinfo();
+
+echo "hello my old friend"
 
 ?>
